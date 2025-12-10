@@ -1,6 +1,5 @@
 import os
 from datetime import datetime
-
 from dotenv import load_dotenv
 from flask import Flask, jsonify, request
 from flask_mail import Mail, Message
